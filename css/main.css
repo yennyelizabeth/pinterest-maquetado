@@ -1,0 +1,45 @@
+ul.a-menu {
+      /* le quita las viñetas*/
+      outline: 1px solid yellow;
+      height: 150px;
+
+}
+
+ul.sub-menu {
+      outline: 1px solid green;
+      height: 130px;
+      position:static;
+}
+
+p {
+       content:normal;
+        padding-top: 25px;
+        padding-left: 8px;
+        padding-right: 8px;
+        height: 50px ;
+        margin-right: 15px;
+}
+
+#text {
+   width: 1px;
+   display: block;
+
+}
+
+li {
+     display: block;
+     float:left;
+}
+
+
+
+.a-menu {
+        display: block;
+
+}
+
+p {
+  display: block;
+  float:left;
+            outline: 1px solid red;
+}
